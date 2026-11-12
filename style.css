@@ -1,7 +1,18 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{display: flex; height: 100%; min-height: 100vh;background-color: rgb(48, 0, 63);display: flex;align-items: center; justify-content: center;}
+
+#app{display: flex; flex-grow: 1;}
+
+body{
+    background-color: rgb(48, 0, 63);
+    display: flex;
+}
 input{
-    background-color: purple;
+    background-color: rgb(255, 186, 255);
     padding: 15px;
     border-radius: 5px;
-    color: whitesmoke;
+    color: rgb(27, 27, 27);
     font-size: 20px;
+    border: none;
 }
