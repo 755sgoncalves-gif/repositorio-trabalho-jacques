@@ -21,3 +21,12 @@ p{
     color:white;
     font-size: 20px;
 }
+
+button{
+    border: none;
+    background-color: purple;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
