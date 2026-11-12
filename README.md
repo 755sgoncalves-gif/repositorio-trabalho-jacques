@@ -1,2 +1,2 @@
 # Trabalho Algoritmos 
-trabalhini bananini 87
+trabalhini bananini
